@@ -18,7 +18,7 @@
 .full-width-layout {
     padding: 0px;
     max-width: 100%;
-    background: linear-gradient(rgb(237 244 255) 0%, rgba(248, 250, 253, 0) 413px);}
+    }
 .grid {
     box-sizing: border-box;
     width: 100%;
@@ -299,7 +299,7 @@ a, a:not([href]):not([tabindex]) {
     line-height: 18px;
 }
 .Low-High-data {
-    color: #000000;
+    /* color: #000000; */
     font-size:18px;
     font-weight: 600;
     line-height: 22px;
@@ -323,7 +323,7 @@ a, a:not([href]):not([tabindex]) {
 
 
  .statsContainer {
-    border-top: 1px solid var(--color-light-neutral-2);
+    /* border-top: 1px solid var(--color-light-neutral-2); */
     padding-top: 24px;
     padding-bottom: 4px;
 }
@@ -350,7 +350,7 @@ a, a:not([href]):not([tabindex]) {
     align-items: center;
 }
  .statsValue {
-    color: #000000;
+    /* color: #000000; */
     font-size:18px;
     font-weight: 600;
     line-height: 18px;
@@ -429,7 +429,7 @@ a, a:not([href]):not([tabindex]) {
 }
 
 .second-stateBlock .maxSupplyValue {
-    color: #000000;
+    color: white;
     font-size:18px;
     font-weight: 500;
     line-height: 18px;
